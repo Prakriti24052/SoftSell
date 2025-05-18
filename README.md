@@ -46,14 +46,33 @@ A modern and responsive landing page for **SoftSell** — a marketing	website
 
 Total Time Spent- 8hrs
 
-To use the OpenAI API:
+## 🛠️ Getting Started
 
-1. Create `.env` in the root:
-   ```env
-   VITE_OPENAI_API_KEY=your-openai-key
+Follow these steps to run the project locally and enable OpenAI-powered features.
 
-2. Start the Node.js backend server (for the AI chat API handler):
-   node server.js
+---
 
-3.Start the development server for the frontend
-  npm run dev
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+
+2️⃣ Install Dependencies
+bash
+npm install
+
+3️⃣ Set Up Environment Variables
+Create a .env file in the root of the project and add your OpenAI API key
+env
+VITE_OPENAI_API_KEY=your-openai-key
+
+4️⃣ Start the Backend Server
+This server handles API requests to OpenAI
+bash
+node server.js
+
+5️⃣ Start the Frontend Development Server
+Use Vite’s dev server:
+bash
+npm run dev
+
