@@ -53,7 +53,7 @@ Follow these steps to run the project locally and enable OpenAI-powered features
 ---
 
 ### 1️⃣ Clone the Repository
-bash
+'''bash
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 
