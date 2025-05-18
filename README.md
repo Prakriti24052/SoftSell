@@ -55,18 +55,18 @@ Follow these steps to run the project locally and enable OpenAI-powered features
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 
-###2️⃣ Install Dependencies:
+### 2️⃣ Install Dependencies:
 npm install
 
-###3️⃣ Set Up Environment Variables
+### 3️⃣ Set Up Environment Variables
 Create a .env file in the root of the project and add your OpenAI API key:
 VITE_OPENAI_API_KEY=your-openai-key
 
-###4️⃣ Start the Backend Server
+### 4️⃣ Start the Backend Server
 This server handles API requests to OpenAI:
 node server.js
 
-###5️⃣ Start the Frontend Development Server
+### 5️⃣ Start the Frontend Development Server
 Use Vite’s dev server:
 npm run dev
 
