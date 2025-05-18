@@ -41,7 +41,7 @@ A modern and responsive landing page for **SoftSell** — a marketing	website
 | React + Vite    | Frontend Framework               |
 | Tailwind CSS    | Styling & Theming                |
 | Framer Motion   | Section Animations               |
-| OpenAI SDK      | AI-powered Chatbot (optional)    |
+| OpenAI SDK      | AI-powered Chatbot               |
 | Yarn            | Package Manager                  |
 
 Total Time Spent- 8hrs
